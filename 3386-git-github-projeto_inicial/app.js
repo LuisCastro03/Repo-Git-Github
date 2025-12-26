@@ -79,4 +79,9 @@ git remote add origin [URL]: Adiciona um repositório remoto chamado
 git push -u origin main: Envia os commits locais para o branch
 "main" do repositório remoto.
 
+git config --global user.email "luisr.contato@gmail.com":
+Configura o email do usuário
+git config --global user.name "Luis Castro": Configura o nome de
+usuário
+
 */
