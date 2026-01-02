@@ -65,35 +65,9 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
-/*
 
-                        Comandos Git
 
-git init: Inicia um novo repositório Git local.
-git add [arquivo]: Adiciona um arquivo específico ao estágio
-para o próximo commit.
-git add .: Adiciona todos os arquivos modificados ao estágio para
-o próximo commit.
-git commit -m "mensagem": Cria um commit com uma mensagem
-descritiva.
-git remote add origin [URL]: Adiciona um repositório remoto chamado
-"origin".
-git push -u origin main: Envia os commits locais para o branch
-"main" do repositório remoto.
 
-git config --global user.email "luisr.contato@gmail.com":
-Configura o email do usuário
-git config --global user.name "Luis Castro": Configura o nome de
-usuário
 
-                        Conceitos
 
-Deploy: O processo de colocar uma aplicação ou site
-disponível para acesso público na internet.
 
-Repositório local: Um diretório no seu computador onde o Git
-armazena o histórico de versões do seu projeto.
-
-Repositório remoto: Um repositório hospedado em um servidor
-remoto, como o GitHub, que permite colaboração e backup do código.
-*/
